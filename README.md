@@ -9,3 +9,9 @@
 ### 개발 프로세스
 
 * [Development and Deployment at Facebook](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6449236) - 페이스북이 개발과 배포를 하는 방법
+ 
+### 개발 조직
+
+* [Scaling Agile @ Spotify] (http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
+
+
