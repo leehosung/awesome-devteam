@@ -18,3 +18,5 @@
 ### 문화 
 
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
+
+* [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
