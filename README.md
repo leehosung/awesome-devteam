@@ -20,3 +20,9 @@
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
 
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
+
+* [우아한 형제들 이야기](http://woowabros.github.io/woowabros/2016/06/30/woowabros_cto.html)
+
+* [토스랩 이야기 1](http://www.slideshare.net/ssuser70b5b8/ss-58709101)
+
+* [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
