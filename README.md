@@ -29,6 +29,8 @@
 
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 
+* [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
+
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
