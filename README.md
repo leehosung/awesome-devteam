@@ -28,3 +28,5 @@
 * [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
 
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
+
+* [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
