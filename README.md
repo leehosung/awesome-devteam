@@ -34,3 +34,7 @@
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
+
+* [소스 코드리뷰](https://brunch.co.kr/@supims/11)
+
+* [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
