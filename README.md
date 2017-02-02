@@ -20,3 +20,21 @@
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
 
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
+
+* [우아한 형제들 이야기](http://woowabros.github.io/woowabros/2016/06/30/woowabros_cto.html)
+
+* [토스랩 이야기 1](http://www.slideshare.net/ssuser70b5b8/ss-58709101)
+
+* [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
+
+* [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
+
+* [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
+
+* [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
+
+* [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
+
+* [소스 코드리뷰](https://brunch.co.kr/@supims/11)
+
+* [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
