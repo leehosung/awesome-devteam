@@ -68,3 +68,7 @@
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
+
+### 개발팀 
+
+* [https://github.com/sarojaba/awesome-devblog]
