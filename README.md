@@ -47,6 +47,8 @@
 
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 
+* [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
+
 ### 회의
 
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
