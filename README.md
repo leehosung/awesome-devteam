@@ -7,6 +7,10 @@
 
 * [[채용] 프론트+백엔드+데이타 개발자](http://lab80.co/lab80-jobs-2014-11-kr/) - 모범적인 개발자 구인글
 
+* [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
+
+* [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
+
 ### 개발 프로세스
 
 * [Development and Deployment at Facebook](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6449236) - 페이스북이 개발과 배포를 하는 방법
