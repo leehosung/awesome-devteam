@@ -71,4 +71,4 @@
 
 ### 개발팀 
 
-* [https://github.com/sarojaba/awesome-devblog]
+* [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
