@@ -47,6 +47,8 @@
 
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 
+### 회의
+
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
 
 * [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
