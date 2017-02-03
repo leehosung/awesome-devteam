@@ -12,14 +12,14 @@
 ### 개발 프로세스
 
 * [Development and Deployment at Facebook](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6449236) - 페이스북이 개발과 배포를 하는 방법
-* [프로덕트 스펙 문서 작성법](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f#.w69vmjpqq)
+* [프로덕트 스펙 문서 작성법](https://webuildproduct.com/스펙-문서-작성에-관하여-ee61a1fc294f?gi=4267bd7167af#.w69vmjpqq)
 * [The Twelve-Factor App](https://12factor.net/ko/)
-* [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/%EB%B2%88%EC%97%AD-%EC%9E%98-%EA%B0%80%EC%9A%94-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94-%EC%B9%B8%EB%B0%98-e27d1db15699#.watc0ksoc)
+* [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699#.watc0ksoc)
 
 ### 개발
 
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
-* [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/%EA%B0%9C%EB%B0%9C%EC%84%9C%EC%A0%81-%EC%9D%BD%EA%B8%B0/1061104660623699)
+* [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
 * [어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 
 ### 개발 조직
@@ -47,7 +47,7 @@
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [소스 코드리뷰](https://brunch.co.kr/@supims/11)
-* [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
+* [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/드라마의-pair-programming과-code-review-도입-후기/)
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 
 ### 개발팀 
