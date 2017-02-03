@@ -5,8 +5,8 @@
 
 ### 채용
 
-* [[채용] 프론트+백엔드+데이타 개발자](http://lab80.co/lab80-jobs-2014-11-kr/) - 모범적인 개발자 구인글
-* [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
+* [\[채용] 프론트+백엔드+데이타 개발자](http://lab80.co/lab80-jobs-2014-11-kr/) - 모범적인 개발자 구인글
+* [\[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 
 ### 개발 프로세스
@@ -25,6 +25,7 @@
 ### 개발 조직
 
 * [Scaling Agile @ Spotify] (http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
+* [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 
 ### 문화 
 
@@ -35,6 +36,7 @@
 * [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
+* [Toss 기업문화](https://tossthink.tistory.com/89)
 
 ### 회의
 
@@ -47,8 +49,11 @@
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [소스 코드리뷰](https://brunch.co.kr/@supims/11)
-* [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/드라마의-pair-programming과-code-review-도입-후기/)
+* [드라마컴퍼니의 Pair Programming 도입 사례](http://blog.dramancompany.com/2015/11/tom과-jaden의-첫-페어-프로그래밍-도전기/)
+* [드라마컴퍼니의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/드라마의-pair-programming과-code-review-도입-후기/)
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
+* [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
+* [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
 
 ### 개발팀 
 
