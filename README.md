@@ -28,7 +28,7 @@
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 
-### 문화 
+### 문화
 
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
@@ -38,13 +38,14 @@
 * [Git 100% 활용하기](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
 * [Toss 기업문화](https://tossthink.tistory.com/89)
+* [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
 
 ### 회의
 
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
 * [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
 
-### 코드 리뷰 
+### 코드 리뷰
 
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
@@ -56,6 +57,6 @@
 * [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
 
-### 개발팀 
+### 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
