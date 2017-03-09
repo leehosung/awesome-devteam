@@ -5,8 +5,8 @@
 
 ### 채용
 
-* [\[채용] 프론트+백엔드+데이타 개발자](http://lab80.co/lab80-jobs-2014-11-kr/) - 모범적인 개발자 구인글
-* [\[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
+* [[채용] 프론트+백엔드+데이타 개발자](http://lab80.co/lab80-jobs-2014-11-kr/) - 모범적인 개발자 구인글
+* [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 * [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 
@@ -25,7 +25,7 @@
 
 ### 개발 조직
 
-* [Scaling Agile @ Spotify] (http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
+* [Scaling Agile @ Spotify](http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 * [팀의 4원칙](https://brunch.co.kr/@greenful/16)
