@@ -29,6 +29,7 @@
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 * [팀의 4원칙](https://brunch.co.kr/@greenful/16)
+* [스포카 : 더 나은 팀을 위하여](https://www.slideshare.net/HeejongAhn/ss-73274788)
 
 ### 문화
 
@@ -41,6 +42,7 @@
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
 * [Toss 기업문화](https://tossthink.tistory.com/89)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
+* [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
 
 ### 회의
 
@@ -49,6 +51,7 @@
 
 ### 코드 리뷰
 
+* [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
