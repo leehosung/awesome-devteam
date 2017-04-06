@@ -44,6 +44,7 @@
 * [Toss 기업문화](https://tossthink.tistory.com/89)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
 * [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
+* [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
 
 ### 회의
 
