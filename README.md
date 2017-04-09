@@ -45,6 +45,7 @@
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
 * [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
 * [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
+* [코드품질 개선을 위한 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/gs-shop-73646180)
 
 ### 회의
 
