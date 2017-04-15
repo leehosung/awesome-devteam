@@ -46,6 +46,7 @@
 * [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
 * [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
 * [코드품질 개선을 위한 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/gs-shop-73646180)
+* [이제 직장에서 엄격한 서열은 잊어야 할 때](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=ko)
 
 ### 회의
 
