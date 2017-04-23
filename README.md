@@ -17,6 +17,8 @@
 * [프로덕트 스펙 문서 작성법](https://webuildproduct.com/스펙-문서-작성에-관하여-ee61a1fc294f?gi=4267bd7167af#.w69vmjpqq)
 * [The Twelve-Factor App](https://12factor.net/ko/)
 * [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699#.watc0ksoc)
+* [Build the RIGHT thing - 린 & 애자일 이야기](https://www.slideshare.net/ChrisCho2/springcamp-2017-build-the-right-thing-pivotal-labs-sf)
+* [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
 
 ### 개발
 
