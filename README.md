@@ -10,6 +10,7 @@
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 * [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
+* [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
 
 ### 개발 프로세스
 
@@ -19,6 +20,7 @@
 * [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699#.watc0ksoc)
 * [Build the RIGHT thing - 린 & 애자일 이야기](https://www.slideshare.net/ChrisCho2/springcamp-2017-build-the-right-thing-pivotal-labs-sf)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
+* [개발 문화 만들기](https://brunch.co.kr/@kiyoungleefige/2)
 
 ### 개발
 
@@ -34,6 +36,8 @@
 * [팀을 위한 4원칙](https://brunch.co.kr/@greenful/16)
 * [리더를 위한 4원칙](https://brunch.co.kr/@greenful/31)
 * [스포카 : 더 나은 팀을 위하여](https://www.slideshare.net/HeejongAhn/ss-73274788)
+* [피보탈 랩스의 개발조직](http://media.fastcampus.co.kr/knowledge/worldclass-software-developers-role-and-responsibility-pivotallabs/)
+* [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering-4a36124c098c)
 
 ### 문화
 
@@ -50,6 +54,7 @@
 * [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
 * [코드품질 개선을 위한 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/gs-shop-73646180)
 * [이제 직장에서 엄격한 서열은 잊어야 할 때](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=ko)
+* [넷플릭스의 문화 : 자유와 책임](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
 
 ### 회의
 
