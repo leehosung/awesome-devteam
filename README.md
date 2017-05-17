@@ -21,6 +21,7 @@
 * [Build the RIGHT thing - 린 & 애자일 이야기](https://www.slideshare.net/ChrisCho2/springcamp-2017-build-the-right-thing-pivotal-labs-sf)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
 * [개발 문화 만들기](https://brunch.co.kr/@kiyoungleefige/2)
+* [좋은 기능을 만드는 방법](https://speakerdeck.com/uyeong/joheun-gineungeul-mandeuneun-bangbeob)
 
 ### 개발
 
