@@ -56,6 +56,7 @@
 * [코드품질 개선을 위한 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/gs-shop-73646180)
 * [이제 직장에서 엄격한 서열은 잊어야 할 때](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=ko)
 * [넷플릭스의 문화 : 자유와 책임](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
+* ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 
 ### 회의
 
