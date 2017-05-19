@@ -9,6 +9,8 @@
 * [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 * [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
+* [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
+* [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
 
 ### 개발 프로세스
 
@@ -16,6 +18,10 @@
 * [프로덕트 스펙 문서 작성법](https://webuildproduct.com/스펙-문서-작성에-관하여-ee61a1fc294f?gi=4267bd7167af#.w69vmjpqq)
 * [The Twelve-Factor App](https://12factor.net/ko/)
 * [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699#.watc0ksoc)
+* [Build the RIGHT thing - 린 & 애자일 이야기](https://www.slideshare.net/ChrisCho2/springcamp-2017-build-the-right-thing-pivotal-labs-sf)
+* [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
+* [개발 문화 만들기](https://brunch.co.kr/@kiyoungleefige/2)
+* [좋은 기능을 만드는 방법](https://speakerdeck.com/uyeong/joheun-gineungeul-mandeuneun-bangbeob)
 
 ### 개발
 
@@ -28,7 +34,11 @@
 * [Scaling Agile @ Spotify](http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
-* [팀의 4원칙](https://brunch.co.kr/@greenful/16)
+* [팀을 위한 4원칙](https://brunch.co.kr/@greenful/16)
+* [리더를 위한 4원칙](https://brunch.co.kr/@greenful/31)
+* [스포카 : 더 나은 팀을 위하여](https://www.slideshare.net/HeejongAhn/ss-73274788)
+* [피보탈 랩스의 개발조직](http://media.fastcampus.co.kr/knowledge/worldclass-software-developers-role-and-responsibility-pivotallabs/)
+* [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering-4a36124c098c)
 
 ### 문화
 
@@ -41,6 +51,15 @@
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
 * [Toss 기업문화](https://tossthink.tistory.com/89)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
+* [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
+* [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
+* [코드품질 개선을 위한 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/gs-shop-73646180)
+* [이제 직장에서 엄격한 서열은 잊어야 할 때](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=ko)
+* [넷플릭스의 문화 : 자유와 책임](https://www.slideshare.net/watchncompass/freedom-responsibility-culture)
+* ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
+* [CEO는 직급 만들기에 주저해야 한다](http://www.ttimes.co.kr/view.html?no=2017051811027720697)
+* [심리적 안정감, 성공적인 성과를 만드는 팀의 필수조건](https://www.slideshare.net/haezoom/ss-76096152)
+* [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 
 ### 회의
 
@@ -49,6 +68,7 @@
 
 ### 코드 리뷰
 
+* [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
