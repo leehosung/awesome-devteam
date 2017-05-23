@@ -79,6 +79,11 @@
 * [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
 
+### 동기
+
+* [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
+* [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
+
 ### 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
