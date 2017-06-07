@@ -1,6 +1,6 @@
 # awesome-devteam
 
-좋은 개발팀을 만드는데 도움이 되는 자료 
+좋은 개발팀을 만드는데 도움이 되는 자료
 
 
 ### 채용
@@ -84,3 +84,7 @@
 ### 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
+
+### 참고
+
+* [실무자와 관지라의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
