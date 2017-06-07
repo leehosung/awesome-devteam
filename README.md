@@ -24,6 +24,7 @@
 * [좋은 기능을 만드는 방법](https://speakerdeck.com/uyeong/joheun-gineungeul-mandeuneun-bangbeob)
 * [칸반 5개월 사용 후기](https://brunch.co.kr/@bradlee/4)
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
+* [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
 
 ### 개발
 
