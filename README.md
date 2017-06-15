@@ -63,6 +63,7 @@
 * [CEO는 직급 만들기에 주저해야 한다](http://www.ttimes.co.kr/view.html?no=2017051811027720697)
 * [심리적 안정감, 성공적인 성과를 만드는 팀의 필수조건](https://www.slideshare.net/haezoom/ss-76096152)
 * [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
+* [스포티파이에서는 결정권자가 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
 
 ### 회의
 
