@@ -11,6 +11,7 @@
 * [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
 * [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
+* [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
 
 ### 개발 프로세스
 
