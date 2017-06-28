@@ -83,6 +83,8 @@
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
+* [코드리뷰, GitHub로 바로 적용하기](https://news.realm.io/kr/news/codereview-howto/)
+* [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 
 ### 개발팀
 
@@ -91,3 +93,4 @@
 ### 참고
 
 * [실무자와 관지라의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
+* [개발자의 효율성](https://brunch.co.kr/@hika/7)
