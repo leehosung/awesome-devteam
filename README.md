@@ -41,6 +41,7 @@
 * [피보탈 랩스의 개발조직](http://media.fastcampus.co.kr/knowledge/worldclass-software-developers-role-and-responsibility-pivotallabs/)
 * [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering-4a36124c098c)
 * [Senior engineers reduce risk](https://hackernoon.com/senior-engineers-reduce-risk-5ab2adc13c97)
+* [세상을 바꾸는 방법](https://selfothercontext.com/how-to-change-the-world/)
 
 ### 문화
 
