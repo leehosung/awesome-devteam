@@ -1,6 +1,6 @@
 # awesome-devteam
 
-좋은 개발팀을 만드는데 도움이 되는 자료 
+좋은 개발팀을 만드는데 도움이 되는 자료
 
 
 ### 채용
@@ -72,6 +72,7 @@
 
 ### 코드 리뷰
 
+* [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
