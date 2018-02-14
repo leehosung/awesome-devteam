@@ -32,6 +32,7 @@
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
 * [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
 * [어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+* [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
 
 ### 개발 조직
 
