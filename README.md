@@ -95,6 +95,10 @@
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
 * [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
 
+### CTO
+
+* [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
+
 ### 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
