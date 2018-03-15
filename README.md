@@ -80,6 +80,7 @@
 * [스포티파이에서는 결정권자가 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
 * [토스 핵심 가치](http://tossthink.tistory.com/178)
 * [토스팀의 문화 소개](http://tossthink.tistory.com/179)
+* [사고를 쳐도 혼나지 않는 회사](https://brunch.co.kr/@svillustrated/13)
 
 ### 회의
 
