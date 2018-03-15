@@ -78,6 +78,8 @@
 * [심리적 안정감, 성공적인 성과를 만드는 팀의 필수조건](https://www.slideshare.net/haezoom/ss-76096152)
 * [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [스포티파이에서는 결정권자가 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
+* [토스 핵심 가치](http://tossthink.tistory.com/178)
+* [토스팀의 문화 소개](http://tossthink.tistory.com/179)
 
 ### 회의
 
