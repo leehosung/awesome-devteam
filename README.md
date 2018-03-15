@@ -1,6 +1,9 @@
 # awesome-devteam
 
-좋은 개발팀을 만드는데 도움이 되는 자료
+좋은 개발팀을 만드는데 도움이 되는 자료입니다.
+많은 분들의 참여로 좋은 문서들을 많이 모아 나갔으면 합니다.
+
+### PR 환영합니다!
 
 
 ### 채용
@@ -11,6 +14,9 @@
 * [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
 * [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
+* [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
+* [성공하는 소프트웨어 엔지니어 - 박종천](https://okky.kr/article/405804)
+* [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
 
 ### 개발 프로세스
@@ -23,15 +29,18 @@
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
 * [개발 문화 만들기](https://brunch.co.kr/@kiyoungleefige/2)
 * [좋은 기능을 만드는 방법](https://speakerdeck.com/uyeong/joheun-gineungeul-mandeuneun-bangbeob)
+* [개발자가 모자라요](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
 * [칸반 5개월 사용 후기](https://brunch.co.kr/@bradlee/4)
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
 * [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
+* [요기요 Android 개발 Git Branch와 Release Planning](https://rgpkorea.github.io/posts/ygy-android-release-planning/)
 
 ### 개발
 
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
 * [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
 * [어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
+* [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
 
 ### 개발 조직
 
@@ -43,6 +52,10 @@
 * [스포카 : 더 나은 팀을 위하여](https://www.slideshare.net/HeejongAhn/ss-73274788)
 * [피보탈 랩스의 개발조직](http://media.fastcampus.co.kr/knowledge/worldclass-software-developers-role-and-responsibility-pivotallabs/)
 * [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering-4a36124c098c)
+* [Senior engineers reduce risk](https://hackernoon.com/senior-engineers-reduce-risk-5ab2adc13c97)
+* [세상을 바꾸는 방법](https://selfothercontext.com/how-to-change-the-world/)
+* [개발자와 소프트웨어 생산의 3대 요소](http://seokjun.kr/environment-for-good-developer/)
+* ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 
 ### 문화
 
@@ -73,6 +86,7 @@
 
 ### 코드 리뷰
 
+* [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
 * [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
@@ -86,6 +100,15 @@
 * [코드리뷰, GitHub로 바로 적용하기](https://news.realm.io/kr/news/codereview-howto/)
 * [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 
+### 동기
+
+* [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
+* [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
+
+### CTO
+
+* [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
+
 ### 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
@@ -94,3 +117,5 @@
 
 * [실무자와 관지라의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
+* [토스팀의 조직구조](http://tossthink.tistory.com/182)
+
