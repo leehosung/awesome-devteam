@@ -89,6 +89,7 @@
 
 ### 코드 리뷰
 
+* [코드리뷰를 시작하려는 그대에게](https://www.slideshare.net/JiyeonSeo2/ss-73455188)
 * [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
@@ -118,7 +119,7 @@
 
 ### 참고
 
-* [실무자와 관지라의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
+* [실무자와 관리자의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
 
