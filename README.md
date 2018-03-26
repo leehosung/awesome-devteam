@@ -34,6 +34,8 @@
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
 * [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
 * [요기요 Android 개발 Git Branch와 Release Planning](https://rgpkorea.github.io/posts/ygy-android-release-planning/)
+* [개발 프로세스 탐험](https://ohmytriptech.github.io/articles/개발-프로세스-탐험/)
+* [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
 ### 개발
 
@@ -98,6 +100,7 @@
 * [소스 코드리뷰](https://brunch.co.kr/@supims/11)
 * [드라마컴퍼니의 Pair Programming 도입 사례](http://blog.dramancompany.com/2015/11/tom과-jaden의-첫-페어-프로그래밍-도전기/)
 * [드라마컴퍼니의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/드라마의-pair-programming과-code-review-도입-후기/)
+* [페어 프로그래밍을 넘어서 - Mob programming](http://www.moreagile.net/2014/12/mob-programming.html)
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
