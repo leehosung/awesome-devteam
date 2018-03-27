@@ -97,6 +97,7 @@
 
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
 * [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
+* [고난, 비전, 직업에 대한 이야기](https://sangminpark.blog/2016/10/30/%EA%B3%A0%EB%82%9C-%EB%B9%84%EC%A0%84-%EC%A7%81%EC%97%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
 ### CTO
 
