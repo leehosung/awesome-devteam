@@ -36,6 +36,7 @@
 * [요기요 Android 개발 Git Branch와 Release Planning](https://rgpkorea.github.io/posts/ygy-android-release-planning/)
 * [개발 프로세스 탐험](https://ohmytriptech.github.io/articles/개발-프로세스-탐험/)
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+* [어느 스타트업의 애자일 스크럼와 JIRA에 대한 연구 문서](http://luckyyowu.tistory.com/370)
 
 ### 개발
 
