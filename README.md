@@ -17,6 +17,7 @@
 * [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
 * [성공하는 소프트웨어 엔지니어 - 박종천](https://okky.kr/article/405804)
 * [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+* [개발자 채용 시 기술검증 어떻게 할것인가](https://brunch.co.kr/@leehosung/47)
 
 ### 개발 프로세스
 
