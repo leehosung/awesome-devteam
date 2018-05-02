@@ -40,7 +40,7 @@
 
 ### 개발 조직
 
-* [Scaling Agile @ Spotify](http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
+* [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 * [팀을 위한 4원칙](https://brunch.co.kr/@greenful/16)
