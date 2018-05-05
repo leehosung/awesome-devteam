@@ -18,6 +18,7 @@
 * [성공하는 소프트웨어 엔지니어 - 박종천](https://okky.kr/article/405804)
 * [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
+* [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 
 ### 개발 프로세스
 
