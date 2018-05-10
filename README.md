@@ -88,6 +88,7 @@
 * [사고를 쳐도 혼나지 않는 회사](https://brunch.co.kr/@svillustrated/13)
 * [조직이 성장하는 법 – 문화와 시스템](https://medium.com/kimjimin-company/조직이-성장하는-법-문화와-시스템-db7730febc8)
 * [왜 엔지니어링 블로그를 운영해야할까?](https://medium.com/styleshare/styleshare-engineering-blog-451786c906ae)
+* [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 
 ### 회의
 
