@@ -17,6 +17,7 @@
 * [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
 * [성공하는 소프트웨어 엔지니어 - 박종천](https://okky.kr/article/405804)
 * [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+* [개발자 채용 시 기술검증 어떻게 할 것인가](https://brunch.co.kr/@leehosung/47)
 * [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 
@@ -27,10 +28,10 @@
 * [The Twelve-Factor App](https://12factor.net/ko/)
 * [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699#.watc0ksoc)
 * [Build the RIGHT thing - 린 & 애자일 이야기](https://www.slideshare.net/ChrisCho2/springcamp-2017-build-the-right-thing-pivotal-labs-sf)
-* [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/17/process.html)
+* [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/18/process.html)
 * [개발 문화 만들기](https://brunch.co.kr/@kiyoungleefige/2)
 * [좋은 기능을 만드는 방법](https://speakerdeck.com/uyeong/joheun-gineungeul-mandeuneun-bangbeob)
-* [개발자가 모자라요](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
+* [개발자가 모자라요](http://youngrok.com/개발자가%20모자라요)
 * [칸반 5개월 사용 후기](https://brunch.co.kr/@bradlee/4)
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
 * [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
@@ -45,10 +46,11 @@
 * [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
 * [어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
+* [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/신규서비스)
 
 ### 개발 조직
 
-* [Scaling Agile @ Spotify](http://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf) - 제품 개발팀에서 여러팀을 운영하기
+* [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 * [팀을 위한 4원칙](https://brunch.co.kr/@greenful/16)
@@ -112,11 +114,13 @@
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
 * [코드리뷰, GitHub로 바로 적용하기](https://news.realm.io/kr/news/codereview-howto/)
 * [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
+* [1000개의 코드 리뷰를 통해 배운점](https://www.vobour.com/1000-개의-코드-리뷰를-통해-배운-점-what-i-learned-f)
 
 ### 동기
 
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
 * [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
+* [고난, 비전, 직업에 대한 이야기](https://sangminpark.blog/2016/10/30/고난-비전-직업에-대한-이야기/)
 
 ### CTO
 
