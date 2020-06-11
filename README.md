@@ -50,6 +50,7 @@
 ### 개발 조직
 
 * [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+  * [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [Spotify에서 배우는 Agile](http://www.ttimes.co.kr/view.html?no=2017021414297795756)
 * [드라마컴퍼니의 개발 조직 운영](http://blog.dramancompany.com/2016/03/개발그룹은-어떻게-일을-하는가-1/)
 * [팀을 위한 4원칙](https://brunch.co.kr/@greenful/16)
