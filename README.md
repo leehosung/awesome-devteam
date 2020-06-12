@@ -19,6 +19,7 @@
 * [개발자 채용 시 기술검증 어떻게 할 것인가](https://brunch.co.kr/@leehosung/47)
 * [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
+* [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
 
 ### 개발 프로세스
 
