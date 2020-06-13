@@ -6,7 +6,7 @@
 ### PR 환영합니다!
 
 
-### 채용
+## 채용
 
 * [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
@@ -21,7 +21,7 @@
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 * [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
 
-### 개발 프로세스
+## 개발 프로세스
 
 * [Development and Deployment at Facebook](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6449236) - 페이스북이 개발과 배포를 하는 방법
 * [프로덕트 스펙 문서 작성법](https://webuildproduct.com/스펙-문서-작성에-관하여-ee61a1fc294f?gi=4267bd7167af#.w69vmjpqq)
@@ -40,7 +40,7 @@
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 * [어느 스타트업의 애자일 스크럼와 JIRA에 대한 연구 문서](http://luckyyowu.tistory.com/370)
 
-### 개발
+## 개발
 
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
 * [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
@@ -48,7 +48,7 @@
 * [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
 * [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/신규서비스)
 
-### 개발 조직
+## 개발 조직
 
 * [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
   * [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/)
@@ -65,7 +65,7 @@
 * ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
 
-### 문화
+## 문화
 
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
@@ -93,12 +93,12 @@
 * [왜 엔지니어링 블로그를 운영해야할까?](https://medium.com/styleshare/styleshare-engineering-blog-451786c906ae)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 
-### 회의
+## 회의
 
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
 * [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
 
-### 코드 리뷰
+## 코드 리뷰
 
 * [코드리뷰를 시작하려는 그대에게](https://www.slideshare.net/JiyeonSeo2/ss-73455188)
 * [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
@@ -118,21 +118,21 @@
 * [1000개의 코드 리뷰를 통해 배운점](https://www.vobour.com/1000-개의-코드-리뷰를-통해-배운-점-what-i-learned-f)
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/?fbclid=IwAR06sz07ZCaEKqtoeT0s_YRdXw5OhiLRxDgK8gVldpCJVl3GP_Txe6WJRro)
 
-### 동기
+## 동기
 
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
 * [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
 * [고난, 비전, 직업에 대한 이야기](https://sangminpark.blog/2016/10/30/고난-비전-직업에-대한-이야기/)
 
-### CTO
+## CTO
 
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 
-### 개발팀
+## 개발팀
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
 
-### 참고
+## 참고
 
 * [실무자와 관리자의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
