@@ -9,8 +9,16 @@
 ## 목차
 
 * [채용](#채용)
-* [개발 프로세스](# 개발-프로세스)
-
+* [프로세스](#프로세스)
+* [성장](#성장)
+* [조직](#조직)
+* [문화](#문화)
+* [코드 리뷰](#코드-리뷰)
+* [동기](#동기)
+* [CTO](#CTO)
+* [관리](#관리)
+* [기타](#기타)
+* [Contributors](#contributors-)
 
 ## 채용
 
@@ -27,7 +35,7 @@
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 * [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
 
-## 개발 프로세스
+## 프로세스
 
 * [Development and Deployment at Facebook](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6449236) - 페이스북이 개발과 배포를 하는 방법
 * [프로덕트 스펙 문서 작성법](https://webuildproduct.com/스펙-문서-작성에-관하여-ee61a1fc294f?gi=4267bd7167af#.w69vmjpqq)
@@ -46,7 +54,7 @@
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 * [어느 스타트업의 애자일 스크럼와 JIRA에 대한 연구 문서](http://luckyyowu.tistory.com/370)
 
-## 개발
+## 성장
 
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
 * [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
@@ -54,7 +62,7 @@
 * [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
 * [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/신규서비스)
 
-## 개발 조직
+## 조직
 
 * [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
   * [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/)
@@ -70,6 +78,7 @@
 * [개발자와 소프트웨어 생산의 3대 요소](http://seokjun.kr/environment-for-good-developer/)
 * ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
+* [토스팀의 조직구조](http://tossthink.tistory.com/182)
 
 ## 문화
 
@@ -98,11 +107,6 @@
 * [조직이 성장하는 법 – 문화와 시스템](https://medium.com/kimjimin-company/조직이-성장하는-법-문화와-시스템-db7730febc8)
 * [왜 엔지니어링 블로그를 운영해야할까?](https://medium.com/styleshare/styleshare-engineering-blog-451786c906ae)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
-
-## 회의
-
-* [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
-* [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
 
 ## 코드 리뷰
 
@@ -133,17 +137,18 @@
 ## CTO
 
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
+* [스타트업 CTO의 일](https://brunch.co.kr/@leehosung/40)
 
-## 개발팀
-
-* [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
-
-## 참고
+## 관리
 
 * [실무자와 관리자의 8시간은 정말 같을까?](https://brunch.co.kr/@dooook/34)
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
-* [토스팀의 조직구조](http://tossthink.tistory.com/182)
+* [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
+* [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
 
+## 기타
+
+* [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
 
 ## Contributors ✨
 
