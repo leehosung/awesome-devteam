@@ -1,4 +1,7 @@
 # awesome-devteam
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 좋은 개발팀을 만드는데 도움이 되는 자료입니다.
 많은 분들의 참여로 좋은 문서들을 많이 모아 나갔으면 합니다.
@@ -138,3 +141,16 @@
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
