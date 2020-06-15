@@ -18,7 +18,7 @@
 * [CTO](#CTO)
 * [관리](#관리)
 * [기타](#기타)
-* [Contributors](#Contributors)
+* [Contributors](#contributors-)
 
 ## 채용
 
