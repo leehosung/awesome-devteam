@@ -9,6 +9,16 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "leehosung",
+      "name": "Lee Ho Sung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2469766?v=4",
+      "profile": "https://blog.novice.io/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
