@@ -63,7 +63,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Kirade",
+      "name": "Jaeyoung Heo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13049936?v=4",
+      "profile": "http://kirade.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
