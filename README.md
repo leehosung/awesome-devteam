@@ -149,6 +149,7 @@
 ## 기타
 
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
+* [당근마켓 성장과 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 
 ## Contributors ✨
 
