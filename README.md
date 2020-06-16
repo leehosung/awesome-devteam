@@ -1,6 +1,6 @@
 # awesome-devteam
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 좋은 개발팀을 만드는데 도움이 되는 자료입니다.
@@ -165,6 +165,7 @@
     <td align="center"><a href="https://humew.com/"><img src="https://avatars2.githubusercontent.com/u/3889468?v=4" width="100px;" alt=""/><br /><sub><b>Hyun Ahn</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=rationality6" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/NESOY"><img src="https://avatars3.githubusercontent.com/u/13412639?v=4" width="100px;" alt=""/><br /><sub><b>Kwon Young Jae</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=NESOY" title="Documentation">📖</a></td>
     <td align="center"><a href="https://what-to.dev/"><img src="https://avatars0.githubusercontent.com/u/1451365?v=4" width="100px;" alt=""/><br /><sub><b>ChangJoo Park(박창주)</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ChangJoo-Park" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://kirade.github.io"><img src="https://avatars0.githubusercontent.com/u/13049936?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyoung Heo</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=Kirade" title="Documentation">📖</a></td>
   </tr>
 </table>
 
