@@ -35,6 +35,7 @@
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 * [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
 * [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132?fbclid=IwAR0rsktJUO9qo27mbUW5FIQN3KmiAx8DbELuihK5Lk7Zk7G9BjUoHMFUc3U)
+* [알고리즘 테스트의 중요성](https://brunch.co.kr/@gigonelee/8)
 
 ## 프로세스
 
