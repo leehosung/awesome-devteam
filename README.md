@@ -1,6 +1,6 @@
 # awesome-devteam
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 좋은 개발팀을 만드는데 도움이 되는 자료입니다.
@@ -174,6 +174,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sorrowhill"><img src="https://avatars2.githubusercontent.com/u/7808573?v=4" width="100px;" alt=""/><br /><sub><b>gigone.lee</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=sorrowhill" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://ach0o.me"><img src="https://avatars2.githubusercontent.com/u/45260642?v=4" width="100px;" alt=""/><br /><sub><b>Changhyun An</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ach0o" title="Documentation">📖</a></td>
   </tr>
 </table>
 
