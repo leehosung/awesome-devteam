@@ -127,7 +127,7 @@
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [깃헙을 통한 코드리뷰](http://ohgyun.com/367)
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
-* [코드리뷰, GitHub로 바로 적용하기](https://news.realm.io/kr/news/codereview-howto/)
+* [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto/)
 * [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
 * [1000개의 코드 리뷰를 통해 배운점](https://www.vobour.com/1000-개의-코드-리뷰를-통해-배운-점-what-i-learned-f)
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/?fbclid=IwAR06sz07ZCaEKqtoeT0s_YRdXw5OhiLRxDgK8gVldpCJVl3GP_Txe6WJRro)
