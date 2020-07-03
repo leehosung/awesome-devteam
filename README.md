@@ -132,6 +132,11 @@
 * [1000개의 코드 리뷰를 통해 배운점](https://www.vobour.com/1000-개의-코드-리뷰를-통해-배운-점-what-i-learned-f)
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/?fbclid=IwAR06sz07ZCaEKqtoeT0s_YRdXw5OhiLRxDgK8gVldpCJVl3GP_Txe6WJRro)
 
+## TDD
+
+* [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/?fbclid=IwAR0Ej8tnklxyc0kPVeyxX_CMKDSmtY_IyyGo2WHfMHRoxMEN6VF1TsF5lZQ)
+* [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
+
 ## 동기
 
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
