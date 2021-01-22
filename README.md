@@ -78,7 +78,7 @@
 * [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering/)
 * [Senior engineers reduce risk](https://hackernoon.com/senior-engineers-reduce-risk-5ab2adc13c97)
 * [세상을 바꾸는 방법](https://selfothercontext.com/how-to-change-the-world/)
-* [개발자와 소프트웨어 생산의 3대 요소](http://seokjun.kr/environment-for-good-developer/)
+* [개발자와 소프트웨어 생산의 3대 요소](https://seokjun.kim/environment-for-good-developer/)
 * ['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
