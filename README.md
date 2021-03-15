@@ -162,6 +162,7 @@
 * [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
 * [당근마켓 성장과 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 * [Git 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
+* [빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/author/asbubam/)
 
 ## Contributors ✨
 
