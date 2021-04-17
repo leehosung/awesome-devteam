@@ -149,6 +149,7 @@
 
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [스타트업 CTO의 일](https://brunch.co.kr/@leehosung/40)
+* [스타트업에서 CTO의 역할](https://www.popit.kr/스타트업에서-cto의-역할)
 
 ## 관리
 
