@@ -165,6 +165,7 @@
 * [당근마켓 성장과 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 * [Git 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
 * [빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/author/asbubam/)
+* [프로그래머 역량 체크](https://docs.google.com/document/d/1hnsBid61Ak7YVMerGZuxbHLFgTZ_pRwUs2-xwbkvNpc/)
 
 ## Contributors ✨
 
