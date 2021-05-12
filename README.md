@@ -66,6 +66,7 @@
 * [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/신규서비스)
 * [프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)
 * [회사에서 본인을 빠르게 성장시키는 방법 - People Scaling](https://www.youtube.com/watch?v=drBdnrlsq9o)
+* [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 
 ## 조직
 
