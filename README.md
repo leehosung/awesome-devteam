@@ -86,6 +86,7 @@
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
 * [뱅크샐러드의 특별한 스펙, '테크 스팩'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
+* [사람을 찾고 함께 성장하는 길](https://mysetting.io/slides/contrast-and-vector?fbclid=IwAR3Ra9EHtIbDhKSJF_ZjowBuVYOWkTLFStNXPzkfdxrerfj3Tvv6msRhkds)
 
 ## 문화
 
