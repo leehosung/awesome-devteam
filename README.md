@@ -117,6 +117,7 @@
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [더 나은 개발 팀 만들기](https://brunch.co.kr/@gigonelee/10)
 * [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html)
+* [뱅크샐러드의 특별한 스펙, '테크 스펙'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 
 ## 코드 리뷰
 
