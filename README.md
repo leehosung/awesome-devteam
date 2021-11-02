@@ -68,6 +68,7 @@
 * [회사에서 본인을 빠르게 성장시키는 방법 - People Scaling](https://www.youtube.com/watch?v=drBdnrlsq9o)
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
+* [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 
 ## 조직
 
