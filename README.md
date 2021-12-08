@@ -174,32 +174,3 @@
 * [Git 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
 * [빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/author/asbubam/)
 * [프로그래머 역량 체크](https://docs.google.com/document/d/1hnsBid61Ak7YVMerGZuxbHLFgTZ_pRwUs2-xwbkvNpc/)
-
-## Contributors ✨
-
-도와주셔서 감사합니다! ([emoji key](https://allcontributors.org/docs/en/emoji-key))
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://blog.novice.io/"><img src="https://avatars2.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>Lee Ho Sung</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=leehosung" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Jeewhan"><img src="https://avatars3.githubusercontent.com/u/14256139?v=4" width="100px;" alt=""/><br /><sub><b>류지환</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=Jeewhan" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/wayhome25"><img src="https://avatars0.githubusercontent.com/u/22283213?v=4" width="100px;" alt=""/><br /><sub><b>LEE HYUNJOO</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=wayhome25" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://humew.com/"><img src="https://avatars2.githubusercontent.com/u/3889468?v=4" width="100px;" alt=""/><br /><sub><b>Hyun Ahn</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=rationality6" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/NESOY"><img src="https://avatars3.githubusercontent.com/u/13412639?v=4" width="100px;" alt=""/><br /><sub><b>Kwon Young Jae</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=NESOY" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://what-to.dev/"><img src="https://avatars0.githubusercontent.com/u/1451365?v=4" width="100px;" alt=""/><br /><sub><b>ChangJoo Park(박창주)</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ChangJoo-Park" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://kirade.github.io"><img src="https://avatars0.githubusercontent.com/u/13049936?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyoung Heo</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=Kirade" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/sorrowhill"><img src="https://avatars2.githubusercontent.com/u/7808573?v=4" width="100px;" alt=""/><br /><sub><b>gigone.lee</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=sorrowhill" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://ach0o.me"><img src="https://avatars2.githubusercontent.com/u/45260642?v=4" width="100px;" alt=""/><br /><sub><b>Changhyun An</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ach0o" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
