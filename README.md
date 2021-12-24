@@ -174,3 +174,5 @@
 * [Git 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
 * [빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/author/asbubam/)
 * [프로그래머 역량 체크](https://docs.google.com/document/d/1hnsBid61Ak7YVMerGZuxbHLFgTZ_pRwUs2-xwbkvNpc/)
+* [개발자들을 위한 테크니컬 라이팅 10계명](https://tech.kakaoenterprise.com/110)
+* [테크니컬 라이팅 4대 원칙](https://tech.kakaoenterprise.com/102)
