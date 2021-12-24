@@ -37,6 +37,7 @@
 * [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132?fbclid=IwAR0rsktJUO9qo27mbUW5FIQN3KmiAx8DbELuihK5Lk7Zk7G9BjUoHMFUc3U)
 * [알고리즘 테스트의 중요성](https://brunch.co.kr/@gigonelee/8)
 * [코더](https://sangminpark.blog/) - 좋은 개발자의 기준
+* [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html?fbclid=IwAR1g0XMiUWs88t9jrg9cKYcR_xn-FQL9Nf8gE0IffrH554FrWx0AexVuWnQ)
 
 ## 프로세스
 
@@ -68,6 +69,7 @@
 * [회사에서 본인을 빠르게 성장시키는 방법 - People Scaling](https://www.youtube.com/watch?v=drBdnrlsq9o)
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
+* [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 
 ## 조직
 
@@ -110,8 +112,6 @@
 * [심리적 안정감, 성공적인 성과를 만드는 팀의 필수조건](https://www.slideshare.net/haezoom/ss-76096152)
 * [회사에서 새로운 기술_적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [스포티파이에서는 결정권자가 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
-* [토스 핵심 가치](http://tossthink.tistory.com/178)
-* [토스팀의 문화 소개](http://tossthink.tistory.com/179)
 * [사고를 쳐도 혼나지 않는 회사](https://brunch.co.kr/@svillustrated/13)
 * [조직이 성장하는 법 – 문화와 시스템](https://medium.com/kimjimin-company/조직이-성장하는-법-문화와-시스템-db7730febc8)
 * [왜 엔지니어링 블로그를 운영해야할까?](https://medium.com/styleshare/styleshare-engineering-blog-c4ae14d49cf4)
@@ -176,32 +176,3 @@
 * [프로그래머 역량 체크](https://docs.google.com/document/d/1hnsBid61Ak7YVMerGZuxbHLFgTZ_pRwUs2-xwbkvNpc/)
 * [개발자들을 위한 테크니컬 라이팅 10계명](https://tech.kakaoenterprise.com/110)
 * [테크니컬 라이팅 4대 원칙](https://tech.kakaoenterprise.com/102)
-
-## Contributors ✨
-
-도와주셔서 감사합니다! ([emoji key](https://allcontributors.org/docs/en/emoji-key))
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://blog.novice.io/"><img src="https://avatars2.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>Lee Ho Sung</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=leehosung" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Jeewhan"><img src="https://avatars3.githubusercontent.com/u/14256139?v=4" width="100px;" alt=""/><br /><sub><b>류지환</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=Jeewhan" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/wayhome25"><img src="https://avatars0.githubusercontent.com/u/22283213?v=4" width="100px;" alt=""/><br /><sub><b>LEE HYUNJOO</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=wayhome25" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://humew.com/"><img src="https://avatars2.githubusercontent.com/u/3889468?v=4" width="100px;" alt=""/><br /><sub><b>Hyun Ahn</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=rationality6" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/NESOY"><img src="https://avatars3.githubusercontent.com/u/13412639?v=4" width="100px;" alt=""/><br /><sub><b>Kwon Young Jae</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=NESOY" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://what-to.dev/"><img src="https://avatars0.githubusercontent.com/u/1451365?v=4" width="100px;" alt=""/><br /><sub><b>ChangJoo Park(박창주)</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ChangJoo-Park" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://kirade.github.io"><img src="https://avatars0.githubusercontent.com/u/13049936?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyoung Heo</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=Kirade" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/sorrowhill"><img src="https://avatars2.githubusercontent.com/u/7808573?v=4" width="100px;" alt=""/><br /><sub><b>gigone.lee</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=sorrowhill" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://ach0o.me"><img src="https://avatars2.githubusercontent.com/u/45260642?v=4" width="100px;" alt=""/><br /><sub><b>Changhyun An</b></sub></a><br /><a href="https://github.com/leehosung/awesome-devteam/commits?author=ach0o" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
