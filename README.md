@@ -70,6 +70,7 @@
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
+* [10배 이상 뛰어난 개발자가 되는 법](https://yozm.wishket.com/magazine/detail/1373/)
 
 ## 조직
 
