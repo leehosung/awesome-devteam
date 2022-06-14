@@ -91,7 +91,6 @@
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
 * [뱅크샐러드의 특별한 스펙, '테크 스팩'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 * [사람을 찾고 함께 성장하는 길](https://mysetting.io/slides/contrast-and-vector?fbclid=IwAR3Ra9EHtIbDhKSJF_ZjowBuVYOWkTLFStNXPzkfdxrerfj3Tvv6msRhkds)
-* [그 때 알았더라면 좋았을 것들](https://www.youtube.com/watch?v=rYT4efmkgCw)
 
 ## 문화
 
@@ -169,6 +168,7 @@
 * [개발자의 효율성](https://brunch.co.kr/@hika/7)
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
 * [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
+* [그 때 알았더라면 좋았을 것들](https://www.youtube.com/watch?v=rYT4efmkgCw)
 
 ## 기타
 
