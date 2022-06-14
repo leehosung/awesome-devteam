@@ -91,6 +91,7 @@
 * [토스팀의 조직구조](http://tossthink.tistory.com/182)
 * [뱅크샐러드의 특별한 스펙, '테크 스팩'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 * [사람을 찾고 함께 성장하는 길](https://mysetting.io/slides/contrast-and-vector?fbclid=IwAR3Ra9EHtIbDhKSJF_ZjowBuVYOWkTLFStNXPzkfdxrerfj3Tvv6msRhkds)
+* [그 때 알았더라면 좋았을 것들](https://www.youtube.com/watch?v=rYT4efmkgCw)
 
 ## 문화
 
