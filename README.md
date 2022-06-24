@@ -38,6 +38,7 @@
 * [알고리즘 테스트의 중요성](https://brunch.co.kr/@gigonelee/8)
 * [코더](https://sangminpark.blog/) - 좋은 개발자의 기준
 * [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html?fbclid=IwAR1g0XMiUWs88t9jrg9cKYcR_xn-FQL9Nf8gE0IffrH554FrWx0AexVuWnQ)
+* [개발자 역량 평가표](https://github.com/EBvi/dev-matrix)
 
 ## 프로세스
 
