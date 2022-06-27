@@ -72,6 +72,7 @@
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 * [10배 이상 뛰어난 개발자가 되는 법](https://yozm.wishket.com/magazine/detail/1373/)
+* [개발자의 학습과 성장](https://present.do/documents/62a02582f6365307fc441c7f?page=0)
 
 ## 조직
 
@@ -91,7 +92,6 @@
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
 * [뱅크샐러드의 특별한 스펙, '테크 스팩'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 * [사람을 찾고 함께 성장하는 길](https://mysetting.io/slides/contrast-and-vector?fbclid=IwAR3Ra9EHtIbDhKSJF_ZjowBuVYOWkTLFStNXPzkfdxrerfj3Tvv6msRhkds)
-* [개발자의 학습과 성장](https://present.do/documents/62a02582f6365307fc441c7f?page=0)
 
 ## 문화
 
