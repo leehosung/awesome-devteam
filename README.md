@@ -91,6 +91,7 @@
 * [넥슨 해외 메이플팀이 겪은 '기술 부채' 이야기](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=82128)
 * [뱅크샐러드의 특별한 스펙, '테크 스팩'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
 * [사람을 찾고 함께 성장하는 길](https://mysetting.io/slides/contrast-and-vector?fbclid=IwAR3Ra9EHtIbDhKSJF_ZjowBuVYOWkTLFStNXPzkfdxrerfj3Tvv6msRhkds)
+* [개발자의 학습과 성장](https://present.do/documents/62a02582f6365307fc441c7f?page=0)
 
 ## 문화
 
