@@ -144,6 +144,7 @@
 * [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 * [좋은 코드](https://sangminpark.blog/2021/05/28/%ec%a2%8b%ec%9d%80-%ec%bd%94%eb%93%9c/?fbclid=IwAR1xnp3ZCd3Z3XriKdqatpYgvMLxo3TKbJEryfVw_DwVYJpZuGG-y1EnzNg)
 * [코드 리뷰 피라미드](https://drive.google.com/file/u/1/d/1w8nOVhaWI9utZR42dEJndCiOeiydSRfz/view?usp=sharing)
+* [글로벌기업은 코드 리뷰를 어떻게 할까요?](https://www.samsungsds.com/kr/insights/global_code_review.html)
 
 ## TDD
 
