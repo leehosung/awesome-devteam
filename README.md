@@ -24,7 +24,6 @@
 
 * [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
-* [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
 * [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
 * [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
