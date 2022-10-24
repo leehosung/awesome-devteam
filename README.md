@@ -52,7 +52,6 @@
 * [개발자가 모자라요](http://youngrok.com/개발자가%20모자라요)
 * [칸반 5개월 사용 후기](https://brunch.co.kr/@bradlee/4)
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
-* [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
 * [요기요 Android 개발 Git Branch와 Release Planning](https://medium.com/deliverytechkorea/%EC%9A%94%EA%B8%B0%EC%9A%94-android-%EA%B0%9C%EB%B0%9C-git-branch%EC%99%80-release-planning-e410289c9dc7)
 * [개발 프로세스 탐험](https://ohmytriptech.github.io/articles/개발-프로세스-탐험/)
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
