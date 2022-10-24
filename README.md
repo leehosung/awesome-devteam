@@ -98,7 +98,6 @@
 * [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
 * [Git 100% 활용하기](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
-* [Toss 기업문화](https://tossthink.tistory.com/89)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
 * [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
 * [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
