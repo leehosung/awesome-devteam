@@ -127,7 +127,6 @@
 * [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
-* [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [소스 코드리뷰](https://brunch.co.kr/@supims/11)
 * [드라마컴퍼니의 Pair Programming 도입 사례](http://blog.dramancompany.com/2015/11/tom과-jaden의-첫-페어-프로그래밍-도전기/)
