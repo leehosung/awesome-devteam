@@ -24,7 +24,6 @@
 
 * [[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
-* [Knowre의 채용 프로세스](http://blog.kivol.net/post/138587457933/우리-회사의-개발자-인터뷰)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
 * [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
 * [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
@@ -34,7 +33,7 @@
 * [면접도 소중한 인연이다](https://medium.com/@nahyunan/면접도-소중한-인연이다-6923297e4c61)
 * [채용, 조금 더 잘하기 위한 몇 가지 제안](https://www.slideshare.net/herenasoo/2018-86722782)
 * [프론트엔드 개발자는 왜 구하기 어렵나요?](https://taegon.kim/archives/4810?fbclid=IwAR0Y5iI0FeJy7aeqsZozFjamWnj7WLd1UX24-QJ3joRI1Fo0iQtHtHSPW0w)
-* [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132?fbclid=IwAR0rsktJUO9qo27mbUW5FIQN3KmiAx8DbELuihK5Lk7Zk7G9BjUoHMFUc3U)
+* [개발자 이력서 작성하기](https://wonny.space/writing/work/engineer-resume)
 * [알고리즘 테스트의 중요성](https://brunch.co.kr/@gigonelee/8)
 * [코더](https://sangminpark.blog/) - 좋은 개발자의 기준
 * [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html?fbclid=IwAR1g0XMiUWs88t9jrg9cKYcR_xn-FQL9Nf8gE0IffrH554FrWx0AexVuWnQ)
@@ -53,16 +52,13 @@
 * [개발자가 모자라요](http://youngrok.com/개발자가%20모자라요)
 * [칸반 5개월 사용 후기](https://brunch.co.kr/@bradlee/4)
 * [개발 게임화 시스템](https://brunch.co.kr/@bradlee/3)
-* [짝 프로그래밍에 관한 효과적인 지침서](https://ansuchan.com/effective-navigation-in-pair-programming/)
 * [요기요 Android 개발 Git Branch와 Release Planning](https://medium.com/deliverytechkorea/%EC%9A%94%EA%B8%B0%EC%9A%94-android-%EA%B0%9C%EB%B0%9C-git-branch%EC%99%80-release-planning-e410289c9dc7)
-* [개발 프로세스 탐험](https://ohmytriptech.github.io/articles/개발-프로세스-탐험/)
 * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 * [어느 스타트업의 애자일 스크럼와 JIRA에 대한 연구 문서](http://luckyyowu.tistory.com/370)
 
 ## 성장
 
 * [더 나은 개발자 되기](http://www.slideshare.net/rockdoli/ss-63333165?ref=https://blog.outsider.ne.kr/1223)
-* [개발서적 읽기](https://www.facebook.com/notes/hika-maeng/개발서적-읽기/1061104660623699)
 * [어려운 것을 쉽게 배우는 방법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [당신이 좋은 프로그래머라는 징표](http://jhrogue.blogspot.kr/2012/06/b.html)
 * [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/신규서비스)
@@ -102,7 +98,6 @@
 * [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
 * [Git 100% 활용하기](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
-* [Toss 기업문화](https://tossthink.tistory.com/89)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
 * [운동이 시작되는 방법](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=ko)
 * [스타트업 DNA](https://brunch.co.kr/@yeobag/4)
@@ -128,7 +123,6 @@
 * [코드 리뷰 가이드](http://www.haruair.com/blog/3116)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://1boon.kakao.com/bloter/238819)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://ohgyun.com/712)
-* [코드리뷰 관련 질문과 답](http://blog.nundefined.com/62)
 * [코드리뷰를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [소스 코드리뷰](https://brunch.co.kr/@supims/11)
 * [드라마컴퍼니의 Pair Programming 도입 사례](http://blog.dramancompany.com/2015/11/tom과-jaden의-첫-페어-프로그래밍-도전기/)
@@ -139,7 +133,6 @@
 * [Gerrit을 이용한 코드 리뷰 시스템](http://d2.naver.com/helloworld/6033708)
 * [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto/)
 * [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?](http://tech.kakao.com/2016/02/04/code-review/)
-* [1000개의 코드 리뷰를 통해 배운점](https://www.vobour.com/1000-개의-코드-리뷰를-통해-배운-점-what-i-learned-f)
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/?fbclid=IwAR06sz07ZCaEKqtoeT0s_YRdXw5OhiLRxDgK8gVldpCJVl3GP_Txe6WJRro)
 * [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 * [좋은 코드](https://sangminpark.blog/2021/05/28/%ec%a2%8b%ec%9d%80-%ec%bd%94%eb%93%9c/?fbclid=IwAR1xnp3ZCd3Z3XriKdqatpYgvMLxo3TKbJEryfVw_DwVYJpZuGG-y1EnzNg)
@@ -174,7 +167,7 @@
 
 ## 기타
 
-* [Awesome Devblog](https://github.com/sarojaba/awesome-devblog)
+* [Awesome Devblog](https://github.com/awesome-devblog/awesome-devblog)
 * [당근마켓 성장과 개발 스택의 변화](https://youtu.be/ELlQXruFesI)
 * [Git 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
 * [빠르고 정확하게 답변을 받을 수 있는 질문하는 법](https://blog.2dal.com/author/asbubam/)
