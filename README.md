@@ -171,6 +171,7 @@
 * [너와 나는 다른 시간을 달린다](https://brunch.co.kr/@younghakjang/13)
 * [실리콘밸리 임원들이 회의하는 법](http://ppss.kr/archives/67454)
 * [그 때 알았더라면 좋았을 것들](https://www.youtube.com/watch?v=rYT4efmkgCw)
+* [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 
 ## 기타
 
