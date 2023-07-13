@@ -94,8 +94,6 @@
 * [구글은 어떻게 일하는가?](http://www.slideshare.net/alleciel/how-google-works-korean?related=1) - 인재, 문화의 중요성
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/stage5/videos/772922059484399/)
 * [우아한 형제들 이야기](http://woowabros.github.io/woowabros/2016/06/30/woowabros_cto.html)
-* [토스랩 이야기 1](http://www.slideshare.net/ssuser70b5b8/ss-58709101)
-* [토스랩 이야기 2](http://www.slideshare.net/ssuser70b5b8/ss-66617364)
 * [Git 100% 활용하기](https://academy.realm.io/kr/posts/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [성공적으로 재택 근무 시스템을 도입하는 방법](http://ppss.kr/archives/88997)
 * [스타트업에서 스크럼 잘하기](https://www.slideshare.net/yonghoon0126/ss-72605097)
