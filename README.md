@@ -38,7 +38,7 @@
 * [코더](https://sangminpark.blog/) - 좋은 개발자의 기준
 * [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html?fbclid=IwAR1g0XMiUWs88t9jrg9cKYcR_xn-FQL9Nf8gE0IffrH554FrWx0AexVuWnQ)
 * [개발자 역량 평가표](https://github.com/EBvi/dev-matrix)
-* [링크드인의 전략적 활용법 11가지](https://kr.linkedin.com/posts/junyoungyoo_링크드인의-전략적-활용법-11가지-activity-7008425783136309248-ekcJ))
+* [링크드인의 전략적 활용법 11가지](https://kr.linkedin.com/posts/junyoungyoo_링크드인의-전략적-활용법-11가지-activity-7008425783136309248-ekcJ)
 
 ## 프로세스
 
