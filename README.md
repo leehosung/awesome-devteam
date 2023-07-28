@@ -38,6 +38,7 @@
 * [코더](https://sangminpark.blog/) - 좋은 개발자의 기준
 * [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html?fbclid=IwAR1g0XMiUWs88t9jrg9cKYcR_xn-FQL9Nf8gE0IffrH554FrWx0AexVuWnQ)
 * [개발자 역량 평가표](https://github.com/EBvi/dev-matrix)
+* [링크드인의 전략적 활용법 11가지](https://kr.linkedin.com/posts/junyoungyoo_링크드인의-전략적-활용법-11가지-activity-7008425783136309248-ekcJ))
 
 ## 프로세스
 
@@ -69,7 +70,8 @@
 * [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 * [10배 이상 뛰어난 개발자가 되는 법](https://yozm.wishket.com/magazine/detail/1373/)
 * [개발자의 학습과 성장](https://present.do/documents/62a02582f6365307fc441c7f?page=0)
-
+* [당신이 성장하지 못한 이유](https://yozm.wishket.com/magazine/detail/1986/)
+  
 ## 조직
 
 * [Spotify Engineering Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
