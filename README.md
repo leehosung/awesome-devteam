@@ -25,7 +25,7 @@
 * [능력있는 개발자는 어떻게 알아볼 수 있나?](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit)
 * [스타트업 면접 후기와 꿀팁](https://brunch.co.kr/@bradlee/39)
 * [슬로워크 입사지원서 설계 이야기](http://slowalk.tistory.com/2382)
-* [성공적인 채용 면접의 공공연한 비밀](http://egloos.zum.com/agile/v/5359401)
+* [성공적인 채용 면접의 공공연한 비밀](https://web.archive.org/web/20221003175533/http://agile.egloos.com/5359401)
 * [성공하는 소프트웨어 엔지니어 - 박종천](https://okky.kr/article/405804)
 * [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [개발자 채용 시 기술검증 어떻게 할 것인가](https://brunch.co.kr/@leehosung/47)
