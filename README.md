@@ -81,7 +81,7 @@
 * [리더를 위한 4원칙](https://brunch.co.kr/@greenful/31)
 * [스포카 : 더 나은 팀을 위하여](https://www.slideshare.net/HeejongAhn/ss-73274788)
 * [피보탈 랩스의 개발조직](http://media.fastcampus.co.kr/knowledge/worldclass-software-developers-role-and-responsibility-pivotallabs/)
-* [CTO vs VP Engineering](https://minorblend.com/cto-vs-vp-engineering/)
+* [CTO vs VP Engineering](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
 * [Senior engineers reduce risk](https://hackernoon.com/senior-engineers-reduce-risk-5ab2adc13c97)
 * [세상을 바꾸는 방법](https://selfothercontext.com/how-to-change-the-world/)
 * [개발자와 소프트웨어 생산의 3대 요소](https://seokjun.kim/environment-for-good-developer/)
