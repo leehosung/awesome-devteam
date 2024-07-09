@@ -155,6 +155,7 @@
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [스타트업 CTO의 일](https://brunch.co.kr/@leehosung/40)
 * [스타트업에서 CTO의 역할](https://www.popit.kr/스타트업에서-cto의-역할)
+* [엔지니어링 리더들을 위한 안티-패턴들(Anti-patterns)](https://news.hada.io/topic?id=15744&utm_source=slack&utm_medium=bot&utm_campaign=T04JK938N)
 
 ## 관리
 
