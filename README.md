@@ -148,7 +148,7 @@
 * [갈망의 아궁이](https://www.slideshare.net/devcatpublications/ss-6097436?next_slideshow=1)
 * [게임팅커가 되자](https://www.slideshare.net/devcatpublications/2015-44143372)
 * [고난, 비전, 직업에 대한 이야기](https://sangminpark.blog/2016/10/30/고난-비전-직업에-대한-이야기/)
-* [퇴사 부검](https://woowabros.github.io/experience/2021/04/18/autopsy.html)
+* [퇴사 부검](https://techblog.woowahan.com/2723/)
 
 ## CTO
 
